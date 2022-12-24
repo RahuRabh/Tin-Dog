@@ -11,7 +11,7 @@ https://rahurabh.github.io/Tin-Dog/
 
 
 ### Screenshot
-<img width = "600" src="https://github.com/RahuRabh/Tin-Dog/blob/main/Screenshot-TinDog.png">
+<img width = "700" src="https://github.com/RahuRabh/Tin-Dog/blob/main/Screenshot-TinDog.png">
 
 
 ####
