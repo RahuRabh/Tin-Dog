@@ -4,10 +4,6 @@ TinDog is basically a clone version of Tinder where dogs can match and socialise
 
 This website was developed using HTML and CSS. 
 
-As part of my learning development course with [Angela Yu](https://www.google.com/search?client=firefox-b-d&q=angela-yu)
-, I designed this website.
-
-
 URL -
 https://rahurabh.github.io/Tin-Dog/
 
@@ -17,4 +13,4 @@ https://rahurabh.github.io/Tin-Dog/
 
 
 ####
-Not a youtube copied project. 
+This site was developed by following along [The Complete 2023 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) Udemy course by [Angela Yu](https://www.google.com/search?client=firefox-b-d&q=angela-yu)
